@@ -1,4 +1,4 @@
 # Search_Hypervelocity_WD_Stars
-Undergraduate Research with Dr. Ken Shen from the Astronomy Department at UC Berkeley.
-In this project, I searched for hypervelocity white dwarf stars that result from Type Ia supernova progenitor scenarios in GPS1 and Gaia data.
-This project was started in the Summer 2020.
+This was my undergraduate research project with Dr. Ken Shen from the UC Berkeley Astronomy Department. I searched for hypervelocity white dwarf stars from Type Ia supernova progenitor scenarios in the Gaia-PS1-SDSS (GPS1) Proper Motion Catalog. 
+
+# Motivation
